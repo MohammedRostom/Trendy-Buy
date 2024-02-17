@@ -1,7 +1,8 @@
 class Asset_App {
   static final NameFont = "MyFont";
-  static final DarKIcon = "Assets/lottie/Icons.json";
-  static final LightIcon = "Assets/lottie/Icons2.json";
-  static final LogoIcon = "Assets/lottie/LogoIcon.json";
-  static final EmptyIcon = "Assets/lottie/empty.json";
+  static final CommePath = "Assets/lottie";
+  static final DarKIcon = "$CommePath/Icons.json";
+  static final LightIcon = "$CommePath/Icons2.json";
+  static final LogoIcon = "$CommePath/LogoIcon.json";
+  static final EmptyIcon = "$CommePath/empty.json";
 }
