@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "326170741611",
+    "project_id": "nodeapp-9bdef",
+    "storage_bucket": "nodeapp-9bdef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326170741611:android:0c94c096b854e37de6da2e",
+        "android_client_info": {
+          "package_name": "com.example.node_final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbYIE3eIvlu_Sev5Te7GfjbwhAfXQQvzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326170741611:android:7a16c75b82ccb611e6da2e",
+        "android_client_info": {
+          "package_name": "com.example.note_app_with_cubit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbYIE3eIvlu_Sev5Te7GfjbwhAfXQQvzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
